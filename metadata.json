@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: SVG Smart Extra Approval System",
+  "description": "An offline local database and interactive simulator for courier/logistics booking extra approvals. Includes Android Kotlin source code, Excel/CSV imports, PDF/Excel reports, and backup/restore capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
